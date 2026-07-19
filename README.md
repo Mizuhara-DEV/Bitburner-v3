@@ -1,4 +1,8 @@
-# bb-external-editor
+## Credit / Ghi công
+This project is a copy / modified version from the original repository: [shyguy1412/bb-external-editor](https://github.com/shyguy1412/bb-external-editor). 
+Many thanks to the original author!
+
+# [bb-external-editor](https://github.com/shyguy1412/bb-external-editor)
 
 This is a template for using any external editor for Bitburner. This Template supports JS, JSX, TS and TSX out of the box.
 
